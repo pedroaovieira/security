@@ -38,6 +38,7 @@
 * [RF](rf/rf/README.md)
   * [Raspberry Pi Image - PiSDR](rf/rf/raspberry-pi-image-pisdr.md)
   * [GPS Spoofing](rf/rf/gps-spoofing.md)
+  * [RF remote](rf/rf/rf-remote.md)
 
 ## Crypto
 
