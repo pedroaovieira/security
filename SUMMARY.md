@@ -12,7 +12,6 @@
 * [Misc](misc.md)
 * [Writeups](writeups.md)
 * [Trainings](trainings/README.md)
-  * [HITB SIN 2021 - SDR lab](trainings/hitb-sin-2021-sdr-lab.md)
   * [Hack Yourself First: How to go on the Cyber-Offense](trainings/hack-yourself-first-how-to-go-on-the-cyber-offense.md)
   * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1/README.md)
     * [Hacking Windows / Mac](trainings/real-world-ethical-hacking-1/real-world-ethical-hacking.md)
@@ -36,6 +35,7 @@
 ## RF
 
 * [RF](rf/rf/README.md)
+  * [HITB SIN 2021 - SDR lab](rf/rf/hitb-sin-2021-sdr-lab.md)
   * [Raspberry Pi Image - PiSDR](rf/rf/raspberry-pi-image-pisdr.md)
   * [GPS Spoofing](rf/rf/gps-spoofing.md)
   * [RF remote](rf/rf/rf-remote.md)
