@@ -1,6 +1,8 @@
 # RTFM
 
-{% embed url="https://doc.lagout.org/rtfm-red-team-field-manual.pdf" %}
+
+
+links [https://doc.lagout.org/rtfm-red-team-field-manual.pdf](https://doc.lagout.org/rtfm-red-team-field-manual.pdf)
 
 
 
