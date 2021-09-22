@@ -1,5 +1,7 @@
 # RF remote
 
+{% embed url="https://github.com/ComThings/PandwaRF/wiki/Android-Brute-Force-Tutorial" %}
+
 
 
 ## Signal Capture

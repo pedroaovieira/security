@@ -84,6 +84,10 @@
 
 {% embed url="https://greatscottgadgets.com/sdr/" %}
 
+{% embed url="https://www.youtube.com/watch?v=e7NnVeaRfc8&list=PLCwnLq3tOElpXe1HqK6m-wVDCsqyBNhlb" %}
+
+
+
 ## Distro
 
 {% embed url="https://sourceforge.net/projects/dragonos-10/" %}
