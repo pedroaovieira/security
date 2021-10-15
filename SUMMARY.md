@@ -27,6 +27,7 @@
 * [Subscribed](capture-the-flag/subscribed.md)
 * [Full List](capture-the-flag/full-list.md)
 * [Tools](capture-the-flag/tools/README.md)
+  * [Docker](capture-the-flag/tools/docker.md)
   * [Virtual Lab](capture-the-flag/tools/virtual-lab.md)
 * [Over The Wire](capture-the-flag/over-the-wire/README.md)
   * [Bandit](capture-the-flag/over-the-wire/bandit.md)
@@ -84,4 +85,3 @@
 ## RTFM
 
 * [RTFM](rtfm/rtfm.md)
-
