@@ -34,5 +34,20 @@ remote_ip
 ```
 {% endcode %}
 
+## Find File
 
+```
+find . -iname "data*.txt" -print 2>/dev/null
+find / -type f -name teste.txt -print 2>/dev/null
+```
 
+## Spawn a TTY Shell
+
+```
+python -c 'import pty; pty.spawn("/bin/sh")'
+python3 -c 'import pty;pty.spawn("/bin/bash")'
+
+export TERM=xterm
+
+CTRL+Z; stty raw -echo; fg
+```
