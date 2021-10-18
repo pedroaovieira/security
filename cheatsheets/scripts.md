@@ -37,7 +37,7 @@ remote_ip
 ## Find File
 
 ```
-find . -iname "data*.txt" -print 2>/dev/null
+find / -iname 40716.py 2>/dev/null
 find / -type f -name teste.txt -print 2>/dev/null
 ```
 
