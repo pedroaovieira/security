@@ -51,3 +51,18 @@ export TERM=xterm
 
 CTRL+Z; stty raw -echo; fg
 ```
+
+
+
+
+
+```
+gobuster dir -u http://10.10.211.96 -x php,txt,tar,zip,old,bak -w /usr/share/wordlists/dirb/common.txt 
+
+
+```
+
+```
+List all SUID files
+find / -perm -4000 2>/dev/null
+```
